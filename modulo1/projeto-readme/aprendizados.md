@@ -1,4 +1,3 @@
-
 **Aprendizado da semana**
 
 Neste período inicial aprendi como trabalhar na ferramenta git com o gitbash.
